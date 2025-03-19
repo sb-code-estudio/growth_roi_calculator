@@ -3,7 +3,7 @@
 An interactive tool that goes beyond traditional LTV:CAC metrics to provide deeper insights into growth economics by incorporating churn risk, expansion revenue, and referral impact.
 
 Try it out here! 
-[https://sebastians-estudio-growth-roi-calc-growth-roi-calculator-qqhoxh.streamlit.app/](https://marketing-growth-roi-calculator.streamlit.app/)
+[https://marketing-growth-roi-calculator.streamlit.app/]
 
 ## Overview
 
